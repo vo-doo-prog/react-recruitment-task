@@ -1,0 +1,10 @@
+.circleLoaderContainer {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+
+.svg {
+  position: absolute;
+  inset: 0;
+}
