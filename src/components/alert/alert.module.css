@@ -1,0 +1,9 @@
+.alertContainer {
+  display: flex;
+  flex-direction: column;
+  color: var(--error-color);
+  background-color: var(--error-color-10);
+  border: var(--border-size-1) solid var(--error-color);
+  border-radius: var(--border-radius-100);
+  padding: var(--space-200) var(--space-300);
+}
