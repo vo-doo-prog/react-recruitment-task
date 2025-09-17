@@ -1,3 +1,11 @@
+# Author comments
+
+- Redux was not used and completely not required. It could only introduce complexity
+- Tests are not implemented due to project simplicity and personal preference
+- CRA (Create React App) is used as in boilerplate but not recommended due to it's being [deprecated](https://react.dev/blog/2025/02/14/sunsetting-create-react-app) and more robust module bundler solutions exist, such as [Vite](https://vite.dev/guide/)
+- Beautiful and polished design was clearly not the top priority for this test task. Focus was made for architecture, long-term utility and simplicity
+- You may run project locally or open deployed version on [firebase](https://redvike-react-task.web.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
